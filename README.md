@@ -1,6 +1,8 @@
 webrtc-ring
 =======================================
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/diasdavid/webrtc-explorer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **tl;dr** ring inspired ring DHT algorithm using WebRTC as transport layer for P2P in the browser. You can find more about how it works underneath at [HOW_DOES_IT_WORK](/HOW_DOES_IT_WORD.md)
 
 It enables you to communicate between several browsers in a p2p/decentralized fashion though a DHT.
