@@ -1,6 +1,7 @@
 var Hapi = require('hapi');
 var moonboots = require('moonboots_hapi');
 
+
 var server = new Hapi.Server();
 
 server.connection({
