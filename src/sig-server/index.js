@@ -1,4 +1,4 @@
-const Hapi = require('Hapi')
+const Hapi = require('hapi')
 const config = require('./config')
 const log = config.log
 
